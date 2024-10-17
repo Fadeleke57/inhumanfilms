@@ -37,11 +37,11 @@ export default function Home() {
                 punishing those who perpetuate hate or on helping them unlearn
                 these behaviors. This tension is reflected in the dog&apos;s
                 gradual progress throughout the film, as the viewer is left
-                wondering whether rehabilitation is even possible—and if it is,
-                whether it is enough. Through the dog&apos;s journey, White Dog
-                engages with a broader conversation about societal change. The
-                film suggests that efforts to reform individuals—much like
-                efforts to change social systems—are fraught with challenges and
+                wondering whether rehabilitation is even possible and if it is,
+                whether it is enough. Through the dog&apos;s journey, <i>White Dog</i>
+                engages with a bigger conversation about societal change. The
+                film suggests that efforts to reform individuals, kind of like
+                efforts to change social systems, are coupled with challenges and
                 uncertainties. Even when there is progress, the film implies
                 that some remnants of hate may linger, just as the dog&apos;s
                 snarl persists in its final moments. This ambiguous ending
