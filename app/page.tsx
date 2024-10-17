@@ -116,7 +116,7 @@ export default function Home() {
               ideologies truly at fault, or does the blame lie with the systems
               that teach these beliefs? By focusing on the question of whether
               the dog&apos;s violent behavior can be reversed, <i>White Dog</i> draws
-              attention to the complex interplay between nature and nurture. The
+              attention to the complex interaction between nature and nurture. The
               dog&apos;s actions throughout the film reflect the idea that
               hatred is not natural but learned. This, in turn, forces viewers
               to consider whether it is ever truly possible to unlearn
@@ -182,8 +182,8 @@ export default function Home() {
           racist violence. While the film succeeds in raising important
           questions about the origins of hate and the possibility of redemption,
           it also demonstrates the limitations of using animals as stand-ins for
-          human problems. By distancing viewers from the human impact of racism
-          and the film risks weakening its message.
+          human problems. By distancing viewers from the human impact of racism,
+          the film risks weakening its message.
         </footer>
       </main>
     </div>
