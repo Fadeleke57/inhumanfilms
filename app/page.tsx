@@ -12,11 +12,11 @@ export default function Home() {
               Farouk Adeleke - Inhuman Films
             </h1>
             <h3 className="text-2xl font-semibold mb-4">
-              White Dog: The Moral Dilemma of Racism through the Eyes of an
+              <i>White Dog</i>: The Moral Dilemma of Racism through the Eyes of an
               Animal
             </h3>
             <h6>
-              White Dog challenges audiences to confront racism by channeling it
+              <i>White Dog</i> challenges audiences to confront racism by channeling it
               through the perspective of an animal trained to hate, but this
               narrative device complicates the anti-racist message its trying to
               convey, risking misplaced empathy and emotional distance from the
@@ -80,7 +80,7 @@ export default function Home() {
                 Animals as Conduits for Social Messages
               </h3>
               <p className="font-semibold">
-                The tension surrounding White Dog stems from the film&apos;s
+                The tension surrounding <i>White Dog</i> stems from the film&apos;s
                 choice to use a dog as a vessel for racism. Critics expressed
                 concerns that the audience might empathize more with the dog,
                 seeing it as a victim of its racist training,than with the
@@ -92,7 +92,7 @@ export default function Home() {
                 explore complex social themes. In works like <i>Animal Farm</i>{" "}
                 or
                 <i> Babe</i>, animals are metaphors for human behavior and
-                political systems. White Dog complicates this tradition by
+                political systems. <i>White Dog</i> complicates this tradition by
                 making the dog an active participant in racial violence,
                 suggesting that just as the animal has learned hatred, racism a
                 learned behavior in society. By framing the narrative around the
@@ -109,13 +109,13 @@ export default function Home() {
             <p className="font-semibold">
               Central to the film&apos;s narrative is the idea that hatred is
               not innate but rather learned through conditioning. The dog in
-              White Dog serves as a symbol of societal racism, suggesting that
+              <i>White Dog</i> serves as a symbol of societal racism, suggesting that
               individuals are shaped by the environment they grow up in, rather
               than being born hateful. This theme raises challenging questions
               about responsibility: Are the individuals who act on hateful
               ideologies truly at fault, or does the blame lie with the systems
               that teach these beliefs? By focusing on the question of whether
-              the dog&apos;s violent behavior can be reversed, White Dog draws
+              the dog&apos;s violent behavior can be reversed, <i>White Dog</i> draws
               attention to the complex interplay between nature and nurture. The
               dog&apos;s actions throughout the film reflect the idea that
               hatred is not natural but learned. This, in turn, forces viewers
@@ -151,7 +151,7 @@ export default function Home() {
             <div>
               <h3 className="text-2xl font-bold mb-4">The Dog in the Church</h3>
               <p className="font-semibold">
-                One of the main concerns about White Dog is that its narrative
+                One of the main concerns about <i>White Dog</i> is that its narrative
                 encourages viewers to focus more on the dog&apos;s
                 rehabilitation than on the experiences of the humans it attacks.
                 The film&apos;s structure shifts the emotional weight of the
@@ -160,10 +160,11 @@ export default function Home() {
                 displacement risks softening the impact of the film&apos;s
                 message, as viewers may feel more sympathy for the animal than
                 for its victims. This shift in focus is particularly evident
-                after the scene in which the dog kills a man inside a church. I
-                found myself enraged that the dog&apos;s keeper insisted on
-                continuing with rehabilitation, even after such a violent
-                incident. At that point, it didn&apos;t seem to matter whether
+                after the scene in which the dog kills a man inside a church.
+                It&apos;s almost direspecting that the dog&apos;s keeper
+                insisted on continuing with rehabilitation, even after such a
+                violent incident and the fact that the trainer himself was a
+                black man. At that point, it didn&apos;t seem to matter whether
                 the dog could be “cured” or not, the lives it had taken could
                 never be brought back. The film&apos;s decision to prioritize
                 the dog&apos;s potential redemption over the finality of its
@@ -175,6 +176,15 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <footer className="p-8 text-center font-semibold">
+          White Dog offers a thought-provoking and unsettling examination of
+          learned hatred through the actions of a dog conditioned to enact
+          racist violence. While the film succeeds in raising important
+          questions about the origins of hate and the possibility of redemption,
+          it also demonstrates the limitations of using animals as stand-ins for
+          human problems. By distancing viewers from the human impact of racism
+          and the film risks weakening its message.
+        </footer>
       </main>
     </div>
   );
