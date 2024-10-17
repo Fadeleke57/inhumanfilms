@@ -18,11 +18,10 @@ export default function Home() {
             <h6>
               White Dog challenges audiences to confront racism by channeling it
               through the perspective of an animal trained to hate, but this
-              narrative device complicates the anti-racist message, risking
-              misplaced empathy and emotional distance. The film forces viewers
-              to ask if it is possible to unlearn hatred and whether
-              storytelling that distances racism from human responsibility
-              dilutes its urgency.
+              narrative device complicates the anti-racist message its trying to
+              convey, risking misplaced empathy and emotional distance from the
+              audience. Storytelling that distances racism from human
+              responsibility dilutes its urgency.
             </h6>
           </div>
         </div>
@@ -38,11 +37,12 @@ export default function Home() {
                 these behaviors. This tension is reflected in the dog&apos;s
                 gradual progress throughout the film, as the viewer is left
                 wondering whether rehabilitation is even possible and if it is,
-                whether it is enough. Through the dog&apos;s journey, <i>White Dog</i>
+                whether it is enough. Through the dog&apos;s journey,{" "}
+                <i className="mr-2">White Dog </i>
                 engages with a bigger conversation about societal change. The
                 film suggests that efforts to reform individuals, kind of like
-                efforts to change social systems, are coupled with challenges and
-                uncertainties. Even when there is progress, the film implies
+                efforts to change social systems, are coupled with challenges
+                and uncertainties. Even when there is progress, the film implies
                 that some remnants of hate may linger, just as the dog&apos;s
                 snarl persists in its final moments. This ambiguous ending
                 forces viewers to confront the uncomfortable possibility that
@@ -82,19 +82,20 @@ export default function Home() {
               <p className="font-semibold">
                 The tension surrounding White Dog stems from the film&apos;s
                 choice to use a dog as a vessel for racism. Critics expressed
-                concerns that the audience might empathize more with the
-                dog—seeing it as a victim of its racist training—than with the
+                concerns that the audience might empathize more with the dog,
+                seeing it as a victim of its racist training,than with the
                 humans it attacks. This risk reflects a broader challenge in
                 storytelling. When animals are used as metaphors for human
                 ideologies, there&apos;s a danger that the real, human issues
                 can become secondary to the moral dilemmas involving the
                 animals. Throughout history, animals in film have been used to
-                explore complex social themes. In works like Animal Farm or
-                Babe, animals are metaphors for human behavior and political
-                systems. White Dog complicates this tradition by making the dog
-                an active participant in racial violence, suggesting that just
-                as the animal has learned hatred, so too is racism a learned
-                behavior in society. By framing the narrative around the
+                explore complex social themes. In works like <i>Animal Farm</i>{" "}
+                or
+                <i> Babe</i>, animals are metaphors for human behavior and
+                political systems. White Dog complicates this tradition by
+                making the dog an active participant in racial violence,
+                suggesting that just as the animal has learned hatred, racism a
+                learned behavior in society. By framing the narrative around the
                 possibility of reversing the dog&apos;s conditioning, the film
                 invites audiences to consider the origins of hateful behavior
                 and the potential for change.
@@ -119,7 +120,7 @@ export default function Home() {
               dog&apos;s actions throughout the film reflect the idea that
               hatred is not natural but learned. This, in turn, forces viewers
               to consider whether it is ever truly possible to unlearn
-              ideologies ingrained through social conditioning—and, more
+              ideologies ingrained through social conditioning and, more
               importantly, whether society bears some responsibility for the
               behavior of individuals it has shaped.
             </p>
@@ -163,13 +164,13 @@ export default function Home() {
                 found myself enraged that the dog&apos;s keeper insisted on
                 continuing with rehabilitation, even after such a violent
                 incident. At that point, it didn&apos;t seem to matter whether
-                the dog could be “cured” or not—the lives it had taken could
-                never be restored. The film&apos;s decision to prioritize the
-                dog&apos;s potential redemption over the finality of its actions
-                complicates the audience&apos;s emotional response. It forces
-                viewers to grapple with the unsettling question of whether the
-                dog&apos;s violent behavior can ever be fully unlearned—or
-                whether some damage is simply irreversible.
+                the dog could be “cured” or not, the lives it had taken could
+                never be brought back. The film&apos;s decision to prioritize
+                the dog&apos;s potential redemption over the finality of its
+                actions complicates the audience&apos;s emotional response. It
+                forces viewers to grapple with the unsettling question of
+                whether the dog&apos;s violent behavior can ever be fully
+                unlearned, or whether some damage is simply irreversible.
               </p>
             </div>
           </div>
